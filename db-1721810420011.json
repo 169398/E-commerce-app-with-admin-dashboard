@@ -37,15 +37,7 @@
       "status": "active",
       "id": 3
     },
-    {
-      "username": "Dummy User 02",
-      "phone": "65465465",
-      "email": "dummy02@dummy.com",
-      "password": "1234",
-      "userType": "admin",
-      "status": "deactive",
-      "id": 4
-    }
+ 
   ],
   "customers": [
     {
